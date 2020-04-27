@@ -9,3 +9,5 @@ My setup:
 * Desktop Environment: [Plasma](https://kde.org/plasma-desktop)
 * Theme: [McMojave](https://github.com/vinceliuice/McMojave-kde)
 * Terminal: [konsole](https://kde.org/applications/system/org.kde.konsole)
+
+![](./screenshots/desktop.png)
