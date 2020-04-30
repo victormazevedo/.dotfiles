@@ -1,7 +1,7 @@
 # My .dotfiles
 
 This is my Arch Linux configuration with MacMojave theme. Soon I intend to buy a MacBook. Then, I made this configurations
-in my Arch to get used of MacOS design and some functionalities.
+in my Arch to get used to MacOS design and some functionalities.
 
 My setup:
 * Distro: [Arch Linux](https://www.archlinux.org/)
