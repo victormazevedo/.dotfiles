@@ -1,3 +1,5 @@
 [user]
 	name = Victor Azevedo
 	email = victor_mouraazevedo@hotmail.com
+[core]
+	editor = vim
